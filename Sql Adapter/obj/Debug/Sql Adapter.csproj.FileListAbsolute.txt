@@ -1,0 +1,9 @@
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Sql Adapter\Sql Adapter\bin\Debug\Sql Adapter.exe.config
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Sql Adapter\Sql Adapter\bin\Debug\Sql Adapter.exe
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Sql Adapter\Sql Adapter\bin\Debug\Sql Adapter.pdb
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Sql Adapter\Sql Adapter\obj\Debug\Sql Adapter.csprojResolveAssemblyReference.cache
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Sql Adapter\Sql Adapter\obj\Debug\Sql_Adapter.Form1.resources
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Sql Adapter\Sql Adapter\obj\Debug\Sql_Adapter.Properties.Resources.resources
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Sql Adapter\Sql Adapter\obj\Debug\Sql Adapter.csproj.GenerateResource.Cache
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Sql Adapter\Sql Adapter\obj\Debug\Sql Adapter.exe
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Sql Adapter\Sql Adapter\obj\Debug\Sql Adapter.pdb
